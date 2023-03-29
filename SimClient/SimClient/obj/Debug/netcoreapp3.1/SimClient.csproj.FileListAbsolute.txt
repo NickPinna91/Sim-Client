@@ -1,0 +1,17 @@
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.exe
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.deps.json
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.runtimeconfig.json
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.runtimeconfig.dev.json
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.dll
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\SimClient.pdb
+C:\Users\Nicholas\source\repos\SimClient\SimClient\bin\Debug\netcoreapp3.1\ACSharedMemory.dll
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.csprojAssemblyReference.cache
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.Form1.resources
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.csproj.GenerateResource.cache
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.csproj.CopyComplete
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.dll
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.pdb
+C:\Users\Nicholas\source\repos\SimClient\SimClient\obj\Debug\netcoreapp3.1\SimClient.genruntimeconfig.cache

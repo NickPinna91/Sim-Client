@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M21a2XOcQVZrOKG3kH0C1u3CU5qIuxYsu14a+JrNfc86kp4dBbKB9oojY3GgSIQ60DhTfapFXi3M1vQKY49Bpw==",
+  "success": true,
+  "projectFilePath": "F:\\DOC_LUGLIO_2022\\WorkSpace VS2019\\source\\repos\\SimClient\\SimClient\\SimClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
